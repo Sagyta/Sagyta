@@ -2,7 +2,7 @@
 
 Me gustan los desafíos y las buenas prácticas, me llama la atención un diseño agradable a la vista y entendible en cuanto a su navegación
 
-### Skill
+## Skill
 - JavaScript
 - HTML
 - Css
@@ -11,7 +11,7 @@ Me gustan los desafíos y las buenas prácticas, me llama la atención un diseñ
 - Redux
 - SQL
 
-Puedes contactarme:
+### Puedes contactarme:
 
 e-mail: betinarenaudo@gmail.com
 
