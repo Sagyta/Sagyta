@@ -11,6 +11,15 @@ Me gustan los desafíos y las buenas prácticas, me llama la atención un diseñ
 - Redux
 - SQL
 
+## Mis Proyectos
+
+VideoGames
+
+[<img src="https://i.imgur.com/P83p2i9.jpg" width="300px"/>](https://i.imgur.com/P83p2i9.jpg)
+[<img src="https://i.imgur.com/OzVXUs4.jpg" width="300px"/>](https://i.imgur.com/OzVXUs4.jpg)
+[<img src="https://i.imgur.com/M2o7k1w.jpg" width="300px"/>](https://i.imgur.com/M2o7k1w.jpg)
+[<img src="https://i.imgur.com/mUVhFiT.jpg" width="300px"/>](https://i.imgur.com/mUVhFiT.jpg)
+
 ### Puedes contactarme:
 
 e-mail: betinarenaudo@gmail.com
