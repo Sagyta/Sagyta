@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola, soy Betina 👋
+
+Me gustan los desafíos y las buenas prácticas, me llama la atención un diseño agradable a la vista y entendible en cuanto a su navegación
+
+
 
 <!--
 **Sagyta/Sagyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
