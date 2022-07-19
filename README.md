@@ -13,12 +13,28 @@ Me gustan los desafíos y las buenas prácticas, me llama la atención un diseñ
 
 ## Mis Proyectos
 
-VideoGames
+### VideoGames
 
-[<img src="https://i.imgur.com/P83p2i9.jpg" width="500px"/>](https://i.imgur.com/P83p2i9.jpg)
+La idea general es crear una aplicación en la que se puedan ver distintos videojuegos con su información correspondiente utilizando una Api externa [rawg](https://rawg.io/apidocs) y poder:
+ - Buscar Videojuegos
+ - Filtar/Ordenar
+ - Agregar nuevos videojuegos
+
+
+[<img src="https://i.imgur.com/P83p2i9.jpg" width="500px"/>](https://i.imgur.com/P85p2i9.jpg)
 [<img src="https://i.imgur.com/OzVXUs4.jpg" width="500px"/>](https://i.imgur.com/OzVXUs4.jpg)
 [<img src="https://i.imgur.com/M2o7k1w.jpg" width="500px"/>](https://i.imgur.com/M2o7k1w.jpg)
 [<img src="https://i.imgur.com/mUVhFiT.jpg" width="500px"/>](https://i.imgur.com/mUVhFiT.jpg)
+
+### Desarrollada con: 
+
+- FrontEnd 
+
+  | React | - | Redux | - | HTML | - | CSS |
+  
+- BackEnd
+
+  | JavaScrip | - | Node.js | - | Express | - | Sequelize | - | Postgres | 
 
 ### Puedes contactarme:
 
