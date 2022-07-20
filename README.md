@@ -45,7 +45,7 @@ e-mail: betinarenaudo@gmail.com
 
 [<img src="https://i.imgur.com/k2kibHk.png" width="50px"/>](https://www.linkedin.com/in/betina-renaudo)
 [<img src="https://i.imgur.com/on3nU8A.png" width="50px"/>](https://www.facebook.com/betina.renaudo)
-[<img src="https://i.imgur.com/tTgDqdz.png" width="50px"/>](https://i.imgur.com/tTgDqdz.png)
+[<img src="https://i.imgur.com/tTgDqdz.png" width="50px"/>](https://www.instagram.com/betinarenaudo)
 
 <!--
 **Sagyta/Sagyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
