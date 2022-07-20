@@ -1,17 +1,18 @@
-# Hola, soy Betina 👋
 
 [<img src="https://i.imgur.com/OoSSj9E.png" width="1200px"/>](https://i.imgur.com/OoSSj9E.png)
 
 Me gustan los desafíos y las buenas prácticas, me llama la atención un diseño agradable a la vista y entendible en cuanto a su navegación
 
 ## Skill
-- JavaScript
-- HTML
-- Css
-- Node.js
-- React.js
-- Redux
-- SQL
+[<img src="https://i.imgur.com/R3KCo0j.png" width="100px"/>](https://i.imgur.com/R3KCo0j.png)
+[<img src="https://i.imgur.com/ZgTCC6a.png" width="100px"/>](https://i.imgur.com/ZgTCC6a.png)
+[<img src="https://i.imgur.com/w7adNXV.png" width="100px"/>](https://i.imgur.com/w7adNXV.png)
+[<img src="https://i.imgur.com/cLV9Bq3.png" width="100px"/>](https://i.imgur.com/cLV9Bq3.png)
+[<img src="https://i.imgur.com/eH6mCgN.png" width="100px"/>](https://i.imgur.com/eH6mCgN.png)
+[<img src="https://i.imgur.com/f2JSRKE.png" width="100px"/>](https://i.imgur.com/f2JSRKE.png)
+[<img src="https://i.imgur.com/9OATvwq.png" width="100px"/>](https://i.imgur.com/9OATvwq.png)
+[<img src="https://i.imgur.com/g1FQ1d9.png" width="100px"/>](https://i.imgur.com/g1FQ1d9.png)
+[<img src="https://i.imgur.com/t6a3nDm.png" width="100px"/>](https://i.imgur.com/t6a3nDm.png)
 
 ## Mis Proyectos
 
