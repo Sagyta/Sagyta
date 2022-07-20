@@ -1,5 +1,7 @@
 # Hola, soy Betina 👋
 
+[<img src="https://i.imgur.com/OoSSj9E.png" width="1200px"/>](https://i.imgur.com/OoSSj9E.png)
+
 Me gustan los desafíos y las buenas prácticas, me llama la atención un diseño agradable a la vista y entendible en cuanto a su navegación
 
 ## Skill
