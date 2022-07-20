@@ -43,11 +43,9 @@ La idea general es crear una aplicación en la que se puedan ver distintos video
 
 e-mail: betinarenaudo@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/betina-renaudo/)
-
-[Facebook](https://www.facebook.com/betina.renaudo)
-
-[Instagram](https://www.instagram.com/betinarenaudo/)
+[<img src="https://i.imgur.com/k2kibHk.png" width="50px"/>](https://www.linkedin.com/in/betina-renaudo)
+[<img src="https://i.imgur.com/on3nU8A.png" width="50px"/>](https://www.facebook.com/betina.renaudo)
+[<img src="https://i.imgur.com/tTgDqdz.png" width="50px"/>](https://i.imgur.com/tTgDqdz.png)
 
 <!--
 **Sagyta/Sagyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
