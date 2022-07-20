@@ -24,7 +24,7 @@ La idea general es crear una aplicación en la que se puedan ver distintos video
  - Agregar nuevos videojuegos
 
 
-[<img src="https://i.imgur.com/p92WAqs.jpg" width="400px"/>](https://i.imgur.com/p92WAqs.jpg)
+[<img src="https://imgur.com/p92WAqs" width="400px"/>](https://imgur.com/p92WAqs)
 [<img src="https://i.imgur.com/OzVXUs4.jpg" width="400px"/>](https://i.imgur.com/OzVXUs4.jpg)
 [<img src="https://i.imgur.com/M2o7k1w.jpg" width="400px"/>](https://i.imgur.com/M2o7k1w.jpg)
 [<img src="https://i.imgur.com/mUVhFiT.jpg" width="400px"/>](https://i.imgur.com/mUVhFiT.jpg)
