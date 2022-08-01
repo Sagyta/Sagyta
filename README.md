@@ -45,14 +45,14 @@ La idea general es crear una aplicación en la que se puedan ver distintos video
   | JavaScrip | - | Node.js | - | Express | - | Sequelize | - | Postgres | 
 
 ### Puedes contactarme:
-<p align="left">
+<p>
 e-mail: betinarenaudo@gmail.com
 </p>
-<p align="center">
-<img src="https://i.imgur.com/k2kibHk.png" width="40px" alt="Linkedin"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/on3nU8A.png" width="40px" alt="Facebook"/>&nbsp;&nbsp;
-<img src="https://i.imgur.com/tTgDqdz.png" width="40px" alt="Instagram"/>&nbsp;&nbsp;
-</p>
+
+[<img src="https://i.imgur.com/k2kibHk.png" width="40px"/>](https://www.linkedin.com/in/betina-renaudo)&nbsp;&nbsp;&nbsp;
+[<img src="https://i.imgur.com/on3nU8A.png" width="40px"/>](https://www.facebook.com/betina.renaudo)&nbsp;&nbsp;&nbsp;
+[<img src="https://i.imgur.com/tTgDqdz.png" width="40px"/>](https://www.instagram.com/betinarenaudo)&nbsp;&nbsp;&nbsp;
+
 
 <!--
 **Sagyta/Sagyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
