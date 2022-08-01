@@ -1,18 +1,22 @@
 
-[<img src="https://i.imgur.com/OoSSj9E.png" width="1200px"/>]()
+<p align="center">
+<img src="https://i.imgur.com/1g0io6B.png" />
+</p>
 
 Me gustan los desafíos y las buenas prácticas, me llama la atención un diseño agradable a la vista y entendible en cuanto a su navegación
 
 ## Skill
-[<img src="https://i.imgur.com/R3KCo0j.png" width="100px"/>](https://i.imgur.com/R3KCo0j.png)
-[<img src="https://i.imgur.com/ZgTCC6a.png" width="100px"/>](https://i.imgur.com/ZgTCC6a.png)
-[<img src="https://i.imgur.com/w7adNXV.png" width="100px"/>](https://i.imgur.com/w7adNXV.png)
-[<img src="https://i.imgur.com/cLV9Bq3.png" width="100px"/>](https://i.imgur.com/cLV9Bq3.png)
-[<img src="https://i.imgur.com/eH6mCgN.png" width="100px"/>](https://i.imgur.com/eH6mCgN.png)
-[<img src="https://i.imgur.com/f2JSRKE.png" width="100px"/>](https://i.imgur.com/f2JSRKE.png)
-[<img src="https://i.imgur.com/9OATvwq.png" width="100px"/>](https://i.imgur.com/9OATvwq.png)
-[<img src="https://i.imgur.com/g1FQ1d9.png" width="100px"/>](https://i.imgur.com/g1FQ1d9.png)
-[<img src="https://i.imgur.com/t6a3nDm.png" width="100px"/>](https://i.imgur.com/t6a3nDm.png)
+<p>
+<img src="https://i.imgur.com/R3KCo0j.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/ZgTCC6a.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/w7adNXV.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/cLV9Bq3.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/eH6mCgN.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/f2JSRKE.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/9OATvwq.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/g1FQ1d9.png" width="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/t6a3nDm.png" width="80"/>
+</p>
 
 ## Mis Proyectos
 
@@ -41,12 +45,14 @@ La idea general es crear una aplicación en la que se puedan ver distintos video
   | JavaScrip | - | Node.js | - | Express | - | Sequelize | - | Postgres | 
 
 ### Puedes contactarme:
-
+<p align="left">
 e-mail: betinarenaudo@gmail.com
-
-[<img src="https://i.imgur.com/k2kibHk.png" width="50px"/>](https://www.linkedin.com/in/betina-renaudo)
-[<img src="https://i.imgur.com/on3nU8A.png" width="50px"/>](https://www.facebook.com/betina.renaudo)
-[<img src="https://i.imgur.com/tTgDqdz.png" width="50px"/>](https://www.instagram.com/betinarenaudo)
+</p>
+<p align="center">
+<img src="https://i.imgur.com/k2kibHk.png" width="40px" alt="Linkedin"/>&nbsp;&nbsp;
+<img src="https://i.imgur.com/on3nU8A.png" width="40px" alt="Facebook"/>&nbsp;&nbsp;
+<img src="https://i.imgur.com/tTgDqdz.png" width="40px" alt="Instagram"/>&nbsp;&nbsp;
+</p>
 
 <!--
 **Sagyta/Sagyta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
