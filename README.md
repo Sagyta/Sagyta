@@ -23,11 +23,12 @@ La idea general es crear una aplicación en la que se puedan ver distintos video
  - Filtar/Ordenar
  - Agregar nuevos videojuegos
 
-
-[<img src="https://i.imgur.com/p92WAqs.jpg" width="400px"/>](https://i.imgur.com/p92WAqs.jpg)
-[<img src="https://i.imgur.com/OzVXUs4.jpg" width="400px"/>](https://i.imgur.com/OzVXUs4.jpg)
-[<img src="https://i.imgur.com/M2o7k1w.jpg" width="400px"/>](https://i.imgur.com/M2o7k1w.jpg)
-[<img src="https://i.imgur.com/mUVhFiT.jpg" width="400px"/>](https://i.imgur.com/mUVhFiT.jpg)
+<p align="center">
+<img src="./img/video4.png" width="400" />&nbsp;&nbsp;&nbsp;
+<img src="./img/video1.png" width="400" />
+<img src="./img/video2.png" width="400" />&nbsp;&nbsp;&nbsp;
+<img src="./img/video3.png" width="400" />
+</p>
 
 ### Desarrollada con: 
 
